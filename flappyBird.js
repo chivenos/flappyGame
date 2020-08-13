@@ -1,3 +1,7 @@
+//Restart menüsü eklenebilir
+//Bazı buglar mevcut onlar giderilebilir.
+//Animasyon vs eklenebilir.
+
 "use strict";
 
 const cv = document.getElementById("game");
